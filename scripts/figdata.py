@@ -98,7 +98,7 @@ def _write_table(path, table, title):
     fields = list(table[0].keys())
     with open(path, "w", newline="", encoding="utf-8") as fh:
         fh.write(f"# {title}\n")
-        w = csv.DictWriter(fh, fieldnames=fields)
+        w = csv.DictWriter(fh, fieldnames=fields, lineterminator="\n")
         w.writeheader()
         for r in table:
             w.writerow({k: _fmt(r.get(k)) if not isinstance(r.get(k), str) else r.get(k) for k in fields})
@@ -216,7 +216,7 @@ def export(fig, name, outdir):
     with open(path, "w", newline="", encoding="utf-8") as fh:
         fh.write(f"# Data drawn in {name}.pdf (exported by scripts/figdata.py when the figure is made).\n")
         fh.write("# Columns are described in data/figure_data/README.md.\n")
-        w = csv.DictWriter(fh, fieldnames=FIELDS)
+        w = csv.DictWriter(fh, fieldnames=FIELDS, lineterminator="\n")
         w.writeheader()
         for r in rows:
             w.writerow({k: _fmt(r.get(k)) for k in FIELDS})

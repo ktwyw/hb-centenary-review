@@ -59,7 +59,7 @@ def extract(pdf_path):
     assert len({r['path_index'] for r in rows})==152
     dest=ROOT/'data/foam_sles_fig3b_digitized.csv'
     with dest.open('w',newline='') as f:
-        w=csv.DictWriter(f,fieldnames=list(rows[0]));w.writeheader();w.writerows(rows)
+        w=csv.DictWriter(f,fieldnames=list(rows[0]),lineterminator='\n');w.writeheader();w.writerows(rows)
     meta={'source':'Ovarlez, Krishan and Cohen-Addad (2010), EPL 91, 68005',
           'doi':'10.1209/0295-5075/91/68005','inspected_version':'arXiv:1007.4133v2',
           'source_url':'https://arxiv.org/pdf/1007.4133v2','pdf_page':5,'figure':'3b',

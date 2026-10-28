@@ -193,7 +193,8 @@ def save(fig, name, outdir=None):
     destination.mkdir(parents=True, exist_ok=True)
     for suffix in ['pdf', 'png']:
         buffer = BytesIO()
-        fig.savefig(buffer, format=suffix)
+        # no creation date in the PDF, so that re-running a script reproduces the committed file exactly
+        fig.savefig(buffer, format=suffix, metadata={'CreationDate': None} if suffix == 'pdf' else None)
         data = buffer.getvalue()
         if len(data) < 1000:
             raise RuntimeError(f'Incomplete figure output: {name}.{suffix}')
