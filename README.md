@@ -11,7 +11,7 @@ This repository contains everything named in the article's Data Availability sta
 - **Python source for every figure** of the article (Figs. 1–13) and of its supplementary material (Figs. S1–S7), one script per figure, named after the figure it draws.
 - **Data** read and written by the scripts, with the origin of each file in [`data/README.md`](data/README.md). Values digitized from published figures and curves computed from published coefficients are marked as such there and in the figure captions.
 - **The plotted data of every figure** of the article and of its supplementary material, one CSV file per figure, in [`data/figure_data/`](data/figure_data/README.md), and **every numbered table** of both documents as CSV files in [`data/tables/`](data/tables/README.md).
-- **Eighteen tutorial notebooks** that walk through the calculations of the review and of its Supplementary Notes, written for students and newcomers: [`notebooks/`](notebooks/README.md).
+- **Eighteen tutorial notebooks** that work through the calculations of the review and of its Supplementary Notes step by step, with checks against the published figures and exercises with worked solutions: [`notebooks/`](notebooks/README.md).
 - **Bibliographic counts** of Sec. III of the article (OpenAlex), with the query strings: [`data/hb_bibliometrics.json`](data/hb_bibliometrics.json).
 - **Checks**: `verify_numbers.py` recomputes 65 numbers quoted in the text from the stored data; `verify_equations.py` and two further scripts test the analytical results (their reports are written to `results/`); `check_tables.py` loads the table files and checks spot values.
 

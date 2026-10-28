@@ -1,7 +1,6 @@
 # Tutorial notebooks
 
-Eighteen Jupyter notebooks that walk through the calculations behind the review, written for students and
-newcomers to yield-stress fluids. Each one explains the physics before computing it, uses the notation
+Eighteen Jupyter notebooks that work through the calculations behind the review step by step. Each one explains the physics before computing it, uses the notation
 of the article, reproduces the corresponding figures, checks its numbers against the plotted data in
 [`../data/figure_data/`](../data/figure_data/README.md), and ends with exercises (with worked
 solutions), key points and references. The notebooks are stored with their outputs, so they can be
