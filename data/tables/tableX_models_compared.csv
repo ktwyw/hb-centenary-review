@@ -1,0 +1,12 @@
+# Table X of the article: Yield-stress constitutive models compared with Herschel–Bulkley.
+model,equation_1d_sigma_gt_sigma_y,year,p,relation_to_hb,typical_fields,note
+Bingham,σ=σ_y+μ_pγ̇,1916,2,Special (n=1),"Drilling muds, concrete, slurries",
+Ostwald–de Waele,σ=Kγ̇^n,1923/25,2,Special (σ_y=0),"Polymer solutions, foods",
+Herschel–Bulkley,σ=σ_y+Kγ̇^n,1926,3,–,Sec. X,
+Casson,√σ=√(σ_y)+√(μ_cγ̇),1959,2,No,"Chocolate, blood, inks",
+Sisko with yield stress,σ=σ_y+Kγ̇^n+μ_∞γ̇,1958,4,Recovers,"Greases, pastes",Sisko's 1958 law has no yield stress; the yield-stress extension is later.
+Robertson–Stiff,σ=A(γ̇+C)^B,1976,3,No,"Drilling fluids, cement",
+Modified Bingham,σ=σ_y+μ_pγ̇+cγ̇^2,–,3,Shares the Bingham limit (c=0),Fresh concrete,
+HB–Papanastasiou,η=σ_y(1-e^(-mγ̇))/γ̇+Kγ̇^(n-1),1987,4,Regularizes,CFD,
+Thixotropic HB,"σ=σ_y(λ)+K(λ)γ̇^n, λ̇=f(λ,γ̇)",1990s,≥5,HB at fixed λ,"Concrete, waxy crude oils",
+Saramito HB,Eq. (32),2009,4,Recovers as G→∞,"Foams, emulsions, gels",

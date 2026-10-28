@@ -1,0 +1,18 @@
+# Table SV of the supplementary material: Analytical limits used to verify the review's calculations.
+test,expected_result,error_exposed
+Newtonian pipe,Q=π R^4G/(8μ),"Radius, stress and prefactor errors"
+Power-law pipe,Eq. (19) with φ=0,Rate exponent and wall conversion
+Bingham pipe,Q=π R^3σ_w[1-4φ/3+φ^4/3]/(4μ_p),Plug contribution
+Pipe quadrature,Eq. (23) equals direct integration,Cancellation and integration errors
+Near-onset exponent,1+1/n for σ_y>0,Confusion with local exponent
+Newtonian Reynolds,Re_MR=ρ UD/μ,Diameter and factor-of-eight errors
+Newtonian thin layer,Eq. (28) gives q=Gh^3/(3μ),Yielded versus plug thickness
+Thin layer with yield,Eq. (28) equals double quadrature of the basal profile,Plug-flux term and exponents
+Plane channel,Eq. (20) equals quadrature of the channel profile,Half-width and plug contributions
+Concentric cylinders,"Eq. (21) equals the Newtonian, power-law and Bingham closed forms, fully and partly yielded",Yield-radius limit and torque scaling
+Pipe energy,Eq. (S24),Invariant and dissipation errors
+Extension,"Eqs. (11) and (12) from the tensor law, with yield, and σ_E=3με̇",Tensor normalization and yield factors
+Normal-stress invariant,Eq. (S5) from a traceless deviator,Deviator construction
+Spreading coefficient,C=225/(128π^2) from the volume integral,Profile and volume prefactor
+Sphere convention,Y_g=3Y_R/2,Force versus radius yield number
+Plug-radius diagnostic,Eq. (30) equals the radius at which the HB–Papanastasiou shear rate equals ε,Inversion of the regularized law

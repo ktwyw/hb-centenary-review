@@ -1,0 +1,16 @@
+# Table II of the article: Recent reviews of the Herschel–Bulkley model and its use in particular fields.
+review,field,emphasis_relevant_to_hb,bibkeys
+"Frigaard, Paso, and de Souza Mendes (2017)",Oil and gas,"Yield-stress flows in reservoirs, drilling, cementing, fracturing, remedial operations and waxy-crude restart",Frigaard2017
+"Abou-Kassem, Bizhani, and Kuru (2023)",Drilling hydraulics,Characterization methods for YPL (HB) fluids and their effect on predicted frictional pressure loss in pipes,AbouKassem2023
+"Yusufi, Kapelan, and Mehta (2025)",Pipe flow,Laminar flow solved from first principles; turbulence models need validation; transition delayed by yield stress and shear thinning,Yusufi2025
+Onyelowe and Kontoni (2023),Self-compacting concrete,Yield stress and plastic viscosity; shear-rate dependence of viscosity underrepresented,OnyeloweKontoni2023
+Martínez-Padilla (2024),Liquid foods,"HB among the standard flow-curve models, with power-law, Bingham, Casson, Cross and Carreau; thixotropy models",MartinezPadilla2024
+"Whorton, Jones, and Wilson (2025)",Earth and planetary mudflows,HB best fits collated mud data; Bingham and HB velocity predictions differ; model choice by shear-rate range,Whorton2025
+Sasmal (2026),Blood and cardiovascular devices,"Shear thinning best established; yield stress, viscoelasticity and thixotropy less systematically assessed",Sasmal2026
+"Tagliaferri, Panagiotopoulos, and Mattevi (2021)",Direct ink writing,HB as the usual description of ink flow; nozzle shear-rate profiles; transient breakdown and recovery not captured,Tagliaferri2021
+Dollet and Raufaste (2014),Aqueous foams,Foam rheology from bubble to flow scale; intermediate length scales in confined flows,DolletRaufaste2014
+Sun et al. (2024),Constitutive modeling,Classification of non-Newtonian models; fractional-derivative models compared with classical ones,Sun2024FCAA
+Molla et al. (2026),Heat transfer,"Numerical flow and heat-transfer studies, 2016–2025; power-law, HB, Bingham and Casson models in more than 75% of them",Molla2026
+Wajihah and Sankar (2023),Arterial blood flow,"Single- to four-layered non-Newtonian models, including HB, for constricted arteries",WajihahSankar2023
+Le Ba et al. (2025),Yogurts,"Newtonian liquid to thixotropic gel during fermentation; yield stress, thixotropy and viscoelasticity by yogurt style",LeBa2025Yogurt
+Mangal et al. (2025),Data-driven rheology,Data-centric and physics-informed machine learning; data-centric models of an HB-type fluid fail outside the training range of rates,Mangal2025

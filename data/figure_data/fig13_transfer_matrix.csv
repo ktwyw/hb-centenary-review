@@ -1,0 +1,29 @@
+# Data shown in fig13_transfer_matrix.pdf (see data/figure_data/README.md).
+group,study,what changes,finding
+A,"Emulsions, wide-gap MRI (Ovarlez 2008)",Local flow curve,predicted with shear parameters
+A,"Carbopol gel, MRI and cone–plate (Coussot 2009)",Local flow curve,predicted with shear parameters
+A,"Foam, local MRI (Ovarlez, Krishan 2010)",Local flow curve,predicted with shear parameters
+A,"Foam, local MRI (Ovarlez, Krishan 2010)","History, time",predicted with shear parameters
+B,Emulsion in microchannels (Goyon 2008),"Walls, gap",predicted after extension or refit
+B,"Adhesive emulsion, smooth narrow gap (Bécu 2006)","Walls, gap",not captured by the baseline model
+B,"Adhesive emulsion, smooth narrow gap (Bécu 2006)","History, time",not captured by the baseline model
+C,Clay-loaded emulsion (Fall 2010),"History, time",not captured by the baseline model
+C,"Bentonite, rest-time series (Møller 2006)","History, time",not captured by the baseline model
+D,"Rotation plus squeeze (Ovarlez, Barral 2010)",Flow type,predicted with shear parameters
+D,Normal stresses (de Cagny 2019),Flow type,not captured by the baseline model
+D,"Capillary thinning, onset (Martinie 2013)",Flow type,predicted with shear parameters
+D,Slipping plates (Zhang 2018),Flow type,not captured by the baseline model
+D,"Gravity filaments, onset (Geffrault 2021)",Flow type,predicted with shear parameters
+D,"Gravity filaments, flow curve (Geffrault 2021)",Flow type,predicted after extension or refit
+D,"Cross-slot, EVP model (Varchanis 2020)",Flow type,predicted after extension or refit
+E,Sphere drag and arrest (Tabuteau 2007),"Geometry, scale",predicted with shear parameters
+E,Flow field around sphere (Putz 2008),"Geometry, scale",not captured by the baseline model
+F,Pipe rheometer (Magnon 2021),"Geometry, scale",predicted after extension or refit
+F,Pipe rheometer (Magnon 2021),"Walls, gap",predicted after extension or refit
+F,"Free-surface channel, kaolin (Chambon 2014)","Geometry, scale",predicted with shear parameters
+F,"Free-surface channel, Carbopol (Chambon 2014)","Geometry, scale",predicted after extension or refit
+G,"Bead packings, pressure drop (Chevalier 2013)","Geometry, scale",predicted after extension or refit
+G,"Bead packing, NMR field (Chevalier 2014)","Geometry, scale",not captured by the baseline model
+G,Pillar array (Waisbord 2019),"Geometry, scale",predicted after extension or refit
+G,Pillar array (Waisbord 2019),"Walls, gap",predicted after extension or refit
+G,Pillar array (Waisbord 2019),"History, time",predicted after extension or refit

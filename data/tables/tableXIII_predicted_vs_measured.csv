@@ -1,0 +1,9 @@
+# Table XIII of the article: What a shear-calibrated HB description predicts, and what else must be measured, for common engineering targets.
+target,what_a_shear_calibration_supports,additional_measurement
+Pressure loss in pipes and annuli,Integral resistance at moderate and high flow (Sec. IX E),Calibration window covering the operating wall shear rates; slip test on the pipe material; γ̇_c for thixotropic fluids
+Restart after shutdown,Ideal static threshold only (Sec. IV D),Rest-time series of breakaway stress; system compliance
+Particle suspension and settling,Arrest criterion and drag (Sec. IX D),Elasticity for wakes and particle interactions; settling under shear (Sec. VIII E)
+Free-surface flow and spreading,Uniform flow of simple materials; leading force balances (Secs. IX E and IX F),Basal slip; surface tension; deposition history; time-resolved front
+Extrusion and filament stretching,Tensile yield onset within about 10% in some protocols (Sec. IX C),Extensional flow curve and failure strain
+Injection into porous media,Form of the pressure–flow law (Sec. IX G),Medium coefficients at the target scale; slip; jamming of the dispersed phase in narrow pores
+Normal forces and other normal-stress effects,Not predicted: N_1=N_2=0 in the baseline,Normal-stress differences; elastic modulus

@@ -1,0 +1,41 @@
+{
+  "evidence_type": "Calculated Couette conversion and fit illustration",
+  "objective": "Unweighted squared log-stress residuals",
+  "true_triplet": [
+    10.0,
+    2.0,
+    0.5
+  ],
+  "fits": [
+    {
+      "radius_ratio": 1.068,
+      "tau_y_Pa": 10.445452943138084,
+      "K_Pa_s_to_n": 2.113902337552707,
+      "n": 0.49745193109705943,
+      "apparent_rate_range_per_s": [
+        0.0005327606023312093,
+        35560.942697847335
+      ]
+    },
+    {
+      "radius_ratio": 1.5,
+      "tau_y_Pa": 11.080280249089915,
+      "K_Pa_s_to_n": 2.945622812632836,
+      "n": 0.4757649789857814,
+      "apparent_rate_range_per_s": [
+        0.00011822832808708497,
+        26925.380748618638
+      ]
+    },
+    {
+      "radius_ratio": 2.0,
+      "tau_y_Pa": 11.04711259377128,
+      "K_Pa_s_to_n": 3.4799420059581117,
+      "n": 0.4657885206781282,
+      "apparent_rate_range_per_s": [
+        8.757653932376665e-05,
+        23046.209812037345
+      ]
+    }
+  ]
+}

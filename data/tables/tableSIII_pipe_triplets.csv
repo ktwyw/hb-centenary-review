@@ -1,0 +1,5 @@
+# Table SIII of the supplementary material: HB triplets of Magnon and Cayeux (2021) (their Secs. 2.3 and 3.2).
+identification_route,sigma_y_pa,k_pa_s_n,n,delta_sigma_y_over_sigma_y_rot_percent
+Rotational rheometry (corrected),1.198,0.2717,0.6389,
+"Pipe, nonlinear optimization",1.030,0.2560,0.6490,-14.0
+"Pipe, corrected method",0.909,0.2720,0.6410,-24.1

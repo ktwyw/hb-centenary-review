@@ -1,0 +1,5 @@
+# Table SI of the supplementary material: Model comparison for the SLES foam local flow curve under the error model of Eq. (S4).
+model,k,parameters,varsigma_s_pa,rmse_pa,delta_aic,delta_bic
+HB,4,"σ_y=30.3 Pa, K=16.3 Pa s^n, n=0.360",1.72,1.77,0,0
+Casson,3,"σ_y=38.4 Pa, μ_c=0.40 Pa s",2.32,2.44,90,87
+Bingham,3,"σ_y=45.9 Pa, μ_p=1.96 Pa s",4.23,4.45,271,268

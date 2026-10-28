@@ -1,0 +1,12 @@
+# Table XI of the article: Coordinates of HB applicability.
+comparison,diagnostic_quantity,measurement_and_consequence
+Yield versus viscous stress,Bn=σ_y/[K(U/L)^n],Establish the sampled range; strong yield dominance magnifies boundary and threshold uncertainty.
+Thixotropic banding,Operating rate relative to γ̇_c,"Is the operating rate above γ̇_c? Below it, steady homogeneous flow is impossible and the material bands or stops; the HB fit does not apply there."
+Inertia versus resistance,Re with stated convention,Check the flow regime; a laminar closure does not hold across transition.
+Elastic memory,"t_eU/L, with t_e an elastic relaxation time, and σ_y/G","Measure modulus, relaxation and recoil; judge smallness against the chosen observable."
+Structural evolution,"Transit, dwell or rest time relative to the structural time t_λ",Compare histories; fixed parameters require a controlled or stationary structure.
+Locality,ξ/L and particle-to-gap ratio,Resolve velocity and vary the gap; nearby plastic activity alters the local relation.
+Wall contribution,Q_slip/Q or u_s/U,Vary radius or surface and identify the wall law independently.
+Homogeneity,Change in local particle or gas fraction,Measure composition; migration or compression changes the transported state.
+Thermal state,Measured Δ T and property sensitivity,Compare with the rheometric state; solve energy transport when necessary.
+Operational arrest,Displacement resolution and observation time,A finite duration bounds motion; it does not establish infinite-time arrest.

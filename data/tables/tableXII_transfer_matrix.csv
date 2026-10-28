@@ -1,0 +1,23 @@
+# Table XII of the article: Selected experimental tests of the Herschel–Bulkley model beyond the calibration flow, with the main finding of each study.
+group,study,material,calibration_to_test,main_finding,note,bibkeys
+A,Ovarlez et al. (2008),concentrated emulsion,"Wide-gap torque inversion → MRI local law, same cell",Predicted: one HB law (n=0.5); slip below 1%,,Ovarlez2008PRE
+A,Coussot et al. (2009),Carbopol hair gel,Cone–plate and Couette → MRI local law,"Predicted: one curve, σ_y=61 Pa, n=0.45, for 10^-2–1 s^-1",The same product showed viscosity bifurcation after rest in Coussot et al. (2002a); its classification as a simple yield-stress fluid depends on protocol.,Coussot2009JNNFM
+A,"Ovarlez, Krishan, and Cohen-Addad (2010)",SLES–betaine foam,Local law at one rotation rate → other rates and histories,Predicted: one local law; MRI bound γ̇_c<0.04 s^-1,,OvarlezFoams2010
+B,Goyon et al. (2008),"emulsion, φ=0.75",Wide-gap (≈2 cm) Couette → 56–250 μm channels,Extended: cooperativity length ξ=22 μm,,Goyon2008
+B,"Bécu, Manneville, and Colin (2006)",adhesive emulsion,Local fit at 2–15 s^-1 → profiles in a 0.92-mm smooth gap,"Not captured: two HB branches, banding at 72–88 Pa",,Becu2006
+C,"Fall, Paredes, and Bonn (2010)",emulsion with bentonite,Steady flow curve → creep and velocity profiles,Not captured below γ̇_c=0.6 s^-1; clay-free emulsion predicted,,Fall2010
+C,"Møller, Mewis, and Bonn (2006)",bentonite,"One protocol → others, rest times",Not captured: critical stress 9–26 Pa with rest time,,Moller2006
+D,"Ovarlez, Barral, and Coussot (2010)","emulsions, gels",Simple shear → superposed orthogonal flow,Predicted: von Mises onset in a J_3=0 subspace,,Ovarlez3D2010
+D,de Cagny et al. (2019),"emulsion, two gels",HB in shear → normal-stress differences,"Not captured: N_1>0, N_2<0; onset unaffected",,deCagny2019
+D,"Martinie, Buggisch, and Willenbacher (2013)",17 soft materials,Creep or oscillatory yield stress → capillary-thinning yield stress,Predicted for onset: 11 of 17 within error of √3 (ratios 1.26–2.44); time-dependent,,Martinie2013
+D,Zhang et al. (2018),"emulsions, Carbopol",Creep yield stress → elongation between slipping plates,Not captured: ratio 1.5√3,,ZhangElongation2018
+D,Geffrault et al. (2021),"kaolin, emulsion",HB in shear → gravity filaments,"Mixed: onset predicted (-3%, +9%); n refitted (0.4, 0.67 vs 0.33)",,Geffrault2021
+D,Varchanis et al. (2020),Pluronic gel,Shear and oscillatory → cross-slot velocity,Extended: EVP model with modulus; velocity within 5% near the stagnation point,,Varchanis2020Extension
+E,"Tabuteau, Coussot, and de Bruyn (2007)",Carbopol,Plate rheometry → sphere drag and arrest,"Predicted: drag over seven decades; Y_(g,c)=0.145 vs 0.143",,Tabuteau2007
+E,Putz et al. (2008),yield-stress gel,Rheometry → PIV flow field around sphere,Not captured: fore–aft asymmetry at Re<1,,Putz2008
+F,Magnon and Cayeux (2021),Carbopol,Rotational → pipe pressure,Extended: pipe σ_y 14–24% lower; nearly overlapping pressure curves at high flow,,MagnonCayeux2021
+F,"Chambon, Ghemmour, and Naaim (2014)",kaolin,Rheometry → uniform free-surface flow,Predicted: heights and profiles,,Chambon2014
+F,"Chambon, Ghemmour, and Naaim (2014)",Carbopol,Rheometry → uniform free-surface flow,Extended: σ_y and K raised by 10–20%,,Chambon2014
+G,Chevalier et al. (2013),"Carbopol, emulsions",Shear rheometry → pressure drop in bead packings,Extended: two coefficients fitted to the packing,,Chevalier2013
+G,Chevalier et al. (2014),emulsion,Shear rheometry → nuclear magnetic resonance (NMR) velocity field,Not captured: no arrested regions; near-Newtonian field,,Chevalier2014PRE
+G,Waisbord et al. (2019),Carbopol,Shear rheometry → pillar-array recruitment,Extended: network attenuation; slip and hysteresis,,Waisbord2019

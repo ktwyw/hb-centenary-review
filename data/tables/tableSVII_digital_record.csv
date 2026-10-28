@@ -1,0 +1,9 @@
+# Table SVII of the supplementary material: Suggested digital record linking a measurement to an HB prediction.
+record_component,contents
+Raw observations,"Time, torque/pressure, speed/flux, temperature, units and resolution flags"
+Material metadata,"Batch, composition, preparation, age, history and relevant microstructural scale"
+Instrument model,"Geometry, surfaces, corrections, offsets, slip treatment and conversion code"
+Fit record,"Constitutive convention, reference rate, bounds, objective, optimizer, seed and joint uncertainty"
+Prediction record,"Domain, boundaries, initial state, solver version, mesh, time step and regularization"
+Verification record,"Tests, reference values, residual definitions and convergence results"
+Provenance,"Source identifiers, file versions and mapping from inputs to each figure or table"

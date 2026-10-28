@@ -1,0 +1,7 @@
+# Table SIV of the supplementary material: Near-onset exponents for ideal no-slip HB flows with nonzero yield stress.
+geometry,leading_response,reason
+Homogeneous simple shear,γ̇∝(σ-σ_y)^(1/n),Entire sheared domain is active
+Circular pipe,Q∝(σ_w-σ_y)^(1+1/n),Thin wall annulus opens
+Plane pressure-driven channel,q∝(σ_w-σ_y)^(1+1/n),Thin wall layers open
+Partly yielded concentric cylinders,Ω∝(σ_i-σ_y)^(1+1/n),Thin bob-adjacent layer opens
+Whole plug sliding at a wall,Q∝(σ_w-σ_s)^(p_s),"Boundary law, not bulk exponent"

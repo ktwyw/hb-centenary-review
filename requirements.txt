@@ -1,0 +1,7 @@
+numpy==2.5.3
+scipy==1.18.1
+matplotlib==3.11.2
+pandas==3.0.5       # notebooks and scripts/check_tables.py
+jupyterlab==4.6.4    # notebooks
+nbconvert==7.17.2    # running the notebooks from the command line
+PyMuPDF==1.28.2      # only for scripts/digitize_foam.py

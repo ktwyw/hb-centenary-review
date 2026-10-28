@@ -1,0 +1,8 @@
+# Table IV of the article: Dimensionless groups used with the Herschel–Bulkley model.
+name,definition,context
+Bingham (HB) number,Bn=σ_y/[K(U/L)^n],yield versus viscous stress
+Oldroyd number,Od=σ_y L/(η_ref U),creeping particle and bubble flows
+Metzner–Reed Reynolds number,Eq. (9),pipe flow and transition; 8ρ U^2/σ_w for HB
+Yield number,Y_g=3σ_y/(2Δρ g R),sphere settling; arrest for Y_g>0.143 (Sec. VIII E)
+Hedström number,He=ρ D^2σ_y^((2-n)/n)/K^(2/n),pipe flow (n=1: ρ D^2σ_y/μ_p^2)
+Plasticity number,Pl=Bn/(1+Bn),bounded measure of yield dominance

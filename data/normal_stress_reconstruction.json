@@ -1,0 +1,46 @@
+{
+  "source": "de Cagny et al., J. Rheol. 63, 285 (2019), Table 1 and SI Table A",
+  "doi": "10.1122/1.5063796",
+  "meaning": "Consequences of the published fits; stress interval 20-300 Pa.",
+  "materials": [
+    {
+      "psi2_over_psi1": -0.7272727272727273,
+      "N1_over_sigma_at_intercept": 0.17085640000000002,
+      "material": "Emulsion",
+      "sigma_y_Pa": 53.56,
+      "K_Pa_s_n": 27.0,
+      "n": 0.42,
+      "psi1_Pa_inv": 0.00319,
+      "psi2_Pa_inv": -0.00232,
+      "normal_N1_at_HB_intercept_Pa": 9.151068784000001,
+      "normal_N2_at_HB_intercept_Pa": -6.655322752,
+      "equivalent_stress_increment_at_intercept_percent": 0.3892719804050149
+    },
+    {
+      "psi2_over_psi1": -0.48757763975155277,
+      "N1_over_sigma_at_intercept": 0.18193,
+      "material": "Hair gel",
+      "sigma_y_Pa": 56.5,
+      "K_Pa_s_n": 18.0,
+      "n": 0.44,
+      "psi1_Pa_inv": 0.00322,
+      "psi2_Pa_inv": -0.00157,
+      "normal_N1_at_HB_intercept_Pa": 10.279045,
+      "normal_N2_at_HB_intercept_Pa": -5.0118325,
+      "equivalent_stress_increment_at_intercept_percent": 0.4129639916247596
+    },
+    {
+      "psi2_over_psi1": -0.862876254180602,
+      "N1_over_sigma_at_intercept": 0.19587490000000002,
+      "material": "Carbopol",
+      "sigma_y_Pa": 65.51,
+      "K_Pa_s_n": 28.13,
+      "n": 0.4,
+      "psi1_Pa_inv": 0.00299,
+      "psi2_Pa_inv": -0.00258,
+      "normal_N1_at_HB_intercept_Pa": 12.831764699000002,
+      "normal_N2_at_HB_intercept_Pa": -11.072225058,
+      "equivalent_stress_increment_at_intercept_percent": 0.5622090080932507
+    }
+  ]
+}

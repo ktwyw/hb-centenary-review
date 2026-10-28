@@ -1,0 +1,30 @@
+{
+  "source_sha256": "8bf8cdb7d69100aacb1490bc989c09eb5b91dd93dc813bed2d75cef0d0d6138a",
+  "panel_bounds_PDF_pt": [
+    360,
+    225,
+    501,
+    310
+  ],
+  "broader_bounds_PDF_pt": [
+    350,
+    210,
+    510,
+    335
+  ],
+  "marker_size_range_PDF_pt": [
+    3,
+    6
+  ],
+  "selected": 152,
+  "broader_candidates": 152,
+  "excluded_broader_candidate_paths": [],
+  "unique_path_ids": 152,
+  "unique_centres": 152,
+  "minimum_centre_distance_PDF_pt": 0.028254348108948526,
+  "closest_paths": [
+    614,
+    762
+  ],
+  "interpretation": "No points removed on proximity alone; different marker groups can overlap. Raw-data independence is unresolved."
+}

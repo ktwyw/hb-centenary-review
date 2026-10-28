@@ -1,0 +1,7 @@
+# Table IX of the article: Error budget for HB calculations.
+error_source,diagnostic_comparison,required_report
+Constitutive adequacy,Independent flow or transient experiment,"Parameters, protocol, omitted mechanisms"
+Regularization,Several M or viscosity-cap values; unregularized reference where feasible,Complete expression and dimensionless settings
+Space,Mesh sequence or reliable estimator,"Resolution, element or cell size, observable error"
+Time,Time-step sequence over the same physical duration,"Scheme, step size, temporal tolerance"
+Algebraic solve,Tighter residuals at fixed model and grid,"Momentum, continuity and constitutive residuals"

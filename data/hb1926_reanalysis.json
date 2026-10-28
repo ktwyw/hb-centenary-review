@@ -1,0 +1,201 @@
+{
+ "note": "Wall stress and Rabinowitsch-Mooney wall rate from Table III of Herschel & Bulkley (1926); no slip assumed.",
+ "series": [
+  {
+   "instrument": "B3",
+   "conc_pct": 0.599,
+   "n_points": 9,
+   "sigma_w_range_Pa": [
+    3.22,
+    21.19
+   ],
+   "gdot_w_range_per_s": [
+    533.0,
+    4960.0
+   ],
+   "nprime_mean": 0.847
+  },
+  {
+   "instrument": "B3",
+   "conc_pct": 0.693,
+   "n_points": 9,
+   "sigma_w_range_Pa": [
+    5.59,
+    23.86
+   ],
+   "gdot_w_range_per_s": [
+    741.0,
+    4548.0
+   ],
+   "nprime_mean": 0.815
+  },
+  {
+   "instrument": "B3",
+   "conc_pct": 0.8,
+   "n_points": 11,
+   "sigma_w_range_Pa": [
+    9.88,
+    29.5
+   ],
+   "gdot_w_range_per_s": [
+    1061.0,
+    4451.0
+   ],
+   "nprime_mean": 0.774
+  },
+  {
+   "instrument": "B3",
+   "conc_pct": 0.993,
+   "n_points": 12,
+   "sigma_w_range_Pa": [
+    4.99,
+    41.33
+   ],
+   "gdot_w_range_per_s": [
+    285.0,
+    4625.0
+   ],
+   "nprime_mean": 0.77
+  },
+  {
+   "instrument": "B3",
+   "conc_pct": 1.107,
+   "n_points": 13,
+   "sigma_w_range_Pa": [
+    5.29,
+    50.17
+   ],
+   "gdot_w_range_per_s": [
+    217.0,
+    4616.0
+   ],
+   "nprime_mean": 0.74
+  },
+  {
+   "instrument": "B3",
+   "conc_pct": 1.21,
+   "n_points": 11,
+   "sigma_w_range_Pa": [
+    15.8,
+    58.3
+   ],
+   "gdot_w_range_per_s": [
+    714.0,
+    4870.0
+   ],
+   "nprime_mean": 0.695
+  },
+  {
+   "instrument": "B2",
+   "conc_pct": 0.399,
+   "n_points": 15,
+   "sigma_w_range_Pa": [
+    2.33,
+    26.15
+   ],
+   "gdot_w_range_per_s": [
+    731.0,
+    11343.0
+   ],
+   "nprime_mean": 0.89
+  },
+  {
+   "instrument": "B2",
+   "conc_pct": 0.692,
+   "n_points": 14,
+   "sigma_w_range_Pa": [
+    2.82,
+    30.0
+   ],
+   "gdot_w_range_per_s": [
+    331.0,
+    6108.0
+   ],
+   "nprime_mean": 0.81
+  },
+  {
+   "instrument": "B2",
+   "conc_pct": 1.004,
+   "n_points": 10,
+   "sigma_w_range_Pa": [
+    24.62,
+    63.14
+   ],
+   "gdot_w_range_per_s": [
+    2367.0,
+    8468.0
+   ],
+   "nprime_mean": 0.731
+  },
+  {
+   "instrument": "B2",
+   "conc_pct": 1.19,
+   "n_points": 9,
+   "sigma_w_range_Pa": [
+    14.39,
+    71.81
+   ],
+   "gdot_w_range_per_s": [
+    709.0,
+    7134.0
+   ],
+   "nprime_mean": 0.708
+  }
+ ],
+ "pooled_fits": [
+  {
+   "sigma_y": 2.510878414953218e-15,
+   "K": 0.02612842431213234,
+   "n": 0.8089910849020272,
+   "rms_log": 0.016861617230402564,
+   "powerlaw_K": 0.026128424326793062,
+   "powerlaw_n": 0.8089910848313445,
+   "pair": [
+    [
+     "B3",
+     0.693
+    ],
+    [
+     "B2",
+     0.692
+    ]
+   ]
+  },
+  {
+   "sigma_y": 7.609571422184123e-13,
+   "K": 0.08034781647543929,
+   "n": 0.7390582158159458,
+   "rms_log": 0.022835206573804532,
+   "powerlaw_K": 0.08034781648897846,
+   "powerlaw_n": 0.7390582157947191,
+   "pair": [
+    [
+     "B3",
+     0.993
+    ],
+    [
+     "B2",
+     1.004
+    ]
+   ]
+  },
+  {
+   "sigma_y": 5.488782688184472e-16,
+   "K": 0.18355041953096016,
+   "n": 0.6765045410961666,
+   "rms_log": 0.032225929636659705,
+   "powerlaw_K": 0.1835504186926221,
+   "powerlaw_n": 0.6765045416548906,
+   "pair": [
+    [
+     "B3",
+     1.21
+    ],
+    [
+     "B2",
+     1.19
+    ]
+   ]
+  }
+ ]
+}

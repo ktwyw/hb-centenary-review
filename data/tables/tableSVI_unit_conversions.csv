@@ -1,0 +1,9 @@
+# Table SVI of the supplementary material: Unit conversions for Herschel–Bulkley parameters.
+quantity,unit,si_equivalent
+stress,dyn/cm^2,0.1 Pa
+stress,lb_f/100 ft^2,0.4788 Pa
+stress,field-viscometer dial reading (°),≈ 1.067 lb_f/100 ft^2 = 0.511 Pa
+shear rate,viscometer speed (rpm),×1.703 = s^-1 (standard bob/rotor)
+consistency,lb_f s^n/100 ft^2,×0.4788 = Pa s^n
+consistency,dyn s^n/cm^2,×0.1 = Pa s^n
+viscosity,cP,10^-3 Pa s

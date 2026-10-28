@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the article and this repository."
+title: "Code and data for: A century of the Herschel-Bulkley model (1926-2026)"
+authors:
+  - family-names: Wang
+    given-names: Yanwei
+    email: yanwei.wang@nu.edu.kz
+    orcid: "https://orcid.org/0000-0002-8488-9833"
+    affiliation: "Department of Chemical and Materials Engineering, School of Engineering, Nazarbayev University, Astana, Kazakhstan; Institute of New Materials and Energy Technologies, Nazarbayev University, Astana, Kazakhstan"
+version: "1.0.0"
+date-released: "2026-10-28"
+license:
+  - MIT
+  - CC-BY-4.0
+repository-code: "https://github.com/ktwyw/hb-centenary-review"
+url: "https://github.com/ktwyw/hb-centenary-review"
+keywords:
+  - Herschel-Bulkley
+  - yield stress
+  - rheology
+  - viscoplastic flow
+references:
+  - type: software
+    title: "Herschel-Bulkley fitting by the Mullineux determinant method (hb-mullineux)"
+    authors:
+      - family-names: Wang
+        given-names: Yanwei
+    repository-code: "https://github.com/ktwyw/herschel-bulkley-determinant-fit"
+    license: MIT
+    version: "1.0.0"
+preferred-citation:
+  type: article
+  title: "A century of the Herschel-Bulkley model (1926-2026): Widespread use, community achievements, predictive capability, and engineering implications"
+  authors:
+    - family-names: Wang
+      given-names: Yanwei
+      orcid: "https://orcid.org/0000-0002-8488-9833"
+  journal: "Journal of Rheology"
+  year: 2026
+  status: submitted

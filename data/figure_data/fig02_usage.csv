@@ -1,0 +1,149 @@
+# Data drawn in fig02_usage.pdf (exported by scripts/figdata.py when the figure is made).
+# Columns are described in data/figure_data/README.md.
+panel,x_label,y_label,series,kind,index,x,y,x_end,y_end,category
+(a),Year,Publications per year [log],full text,markers,0,1951,1,,,
+(a),Year,Publications per year [log],full text,markers,1,1952,4,,,
+(a),Year,Publications per year [log],full text,markers,2,1953,1,,,
+(a),Year,Publications per year [log],full text,markers,3,1954,2,,,
+(a),Year,Publications per year [log],full text,markers,4,1956,1,,,
+(a),Year,Publications per year [log],full text,markers,5,1957,1,,,
+(a),Year,Publications per year [log],full text,markers,6,1960,2,,,
+(a),Year,Publications per year [log],full text,markers,7,1962,2,,,
+(a),Year,Publications per year [log],full text,markers,8,1963,1,,,
+(a),Year,Publications per year [log],full text,markers,9,1964,2,,,
+(a),Year,Publications per year [log],full text,markers,10,1969,2,,,
+(a),Year,Publications per year [log],full text,markers,11,1970,4,,,
+(a),Year,Publications per year [log],full text,markers,12,1971,1,,,
+(a),Year,Publications per year [log],full text,markers,13,1972,1,,,
+(a),Year,Publications per year [log],full text,markers,14,1975,1,,,
+(a),Year,Publications per year [log],full text,markers,15,1976,3,,,
+(a),Year,Publications per year [log],full text,markers,16,1977,3,,,
+(a),Year,Publications per year [log],full text,markers,17,1978,2,,,
+(a),Year,Publications per year [log],full text,markers,18,1979,1,,,
+(a),Year,Publications per year [log],full text,markers,19,1980,3,,,
+(a),Year,Publications per year [log],full text,markers,20,1981,8,,,
+(a),Year,Publications per year [log],full text,markers,21,1982,2,,,
+(a),Year,Publications per year [log],full text,markers,22,1983,7,,,
+(a),Year,Publications per year [log],full text,markers,23,1984,8,,,
+(a),Year,Publications per year [log],full text,markers,24,1985,5,,,
+(a),Year,Publications per year [log],full text,markers,25,1986,10,,,
+(a),Year,Publications per year [log],full text,markers,26,1987,10,,,
+(a),Year,Publications per year [log],full text,markers,27,1988,11,,,
+(a),Year,Publications per year [log],full text,markers,28,1989,12,,,
+(a),Year,Publications per year [log],full text,markers,29,1990,10,,,
+(a),Year,Publications per year [log],full text,markers,30,1991,19,,,
+(a),Year,Publications per year [log],full text,markers,31,1992,14,,,
+(a),Year,Publications per year [log],full text,markers,32,1993,14,,,
+(a),Year,Publications per year [log],full text,markers,33,1994,32,,,
+(a),Year,Publications per year [log],full text,markers,34,1995,42,,,
+(a),Year,Publications per year [log],full text,markers,35,1996,34,,,
+(a),Year,Publications per year [log],full text,markers,36,1997,43,,,
+(a),Year,Publications per year [log],full text,markers,37,1998,44,,,
+(a),Year,Publications per year [log],full text,markers,38,1999,44,,,
+(a),Year,Publications per year [log],full text,markers,39,2000,44,,,
+(a),Year,Publications per year [log],full text,markers,40,2001,42,,,
+(a),Year,Publications per year [log],full text,markers,41,2002,54,,,
+(a),Year,Publications per year [log],full text,markers,42,2003,84,,,
+(a),Year,Publications per year [log],full text,markers,43,2004,103,,,
+(a),Year,Publications per year [log],full text,markers,44,2005,108,,,
+(a),Year,Publications per year [log],full text,markers,45,2006,120,,,
+(a),Year,Publications per year [log],full text,markers,46,2007,137,,,
+(a),Year,Publications per year [log],full text,markers,47,2008,187,,,
+(a),Year,Publications per year [log],full text,markers,48,2009,201,,,
+(a),Year,Publications per year [log],full text,markers,49,2010,239,,,
+(a),Year,Publications per year [log],full text,markers,50,2011,266,,,
+(a),Year,Publications per year [log],full text,markers,51,2012,305,,,
+(a),Year,Publications per year [log],full text,markers,52,2013,358,,,
+(a),Year,Publications per year [log],full text,markers,53,2014,409,,,
+(a),Year,Publications per year [log],full text,markers,54,2015,462,,,
+(a),Year,Publications per year [log],full text,markers,55,2016,493,,,
+(a),Year,Publications per year [log],full text,markers,56,2017,535,,,
+(a),Year,Publications per year [log],full text,markers,57,2018,597,,,
+(a),Year,Publications per year [log],full text,markers,58,2019,700,,,
+(a),Year,Publications per year [log],full text,markers,59,2020,719,,,
+(a),Year,Publications per year [log],full text,markers,60,2021,842,,,
+(a),Year,Publications per year [log],full text,markers,61,2022,863,,,
+(a),Year,Publications per year [log],full text,markers,62,2023,982,,,
+(a),Year,Publications per year [log],full text,markers,63,2024,966,,,
+(a),Year,Publications per year [log],full text,markers,64,2025,1034,,,
+(a),Year,Publications per year [log],title or abstract,markers,0,1954,1,,,
+(a),Year,Publications per year [log],title or abstract,markers,1,1964,1,,,
+(a),Year,Publications per year [log],title or abstract,markers,2,1970,1,,,
+(a),Year,Publications per year [log],title or abstract,markers,3,1972,1,,,
+(a),Year,Publications per year [log],title or abstract,markers,4,1975,1,,,
+(a),Year,Publications per year [log],title or abstract,markers,5,1976,1,,,
+(a),Year,Publications per year [log],title or abstract,markers,6,1977,2,,,
+(a),Year,Publications per year [log],title or abstract,markers,7,1978,1,,,
+(a),Year,Publications per year [log],title or abstract,markers,8,1980,2,,,
+(a),Year,Publications per year [log],title or abstract,markers,9,1981,7,,,
+(a),Year,Publications per year [log],title or abstract,markers,10,1982,1,,,
+(a),Year,Publications per year [log],title or abstract,markers,11,1983,5,,,
+(a),Year,Publications per year [log],title or abstract,markers,12,1984,5,,,
+(a),Year,Publications per year [log],title or abstract,markers,13,1985,2,,,
+(a),Year,Publications per year [log],title or abstract,markers,14,1986,5,,,
+(a),Year,Publications per year [log],title or abstract,markers,15,1987,9,,,
+(a),Year,Publications per year [log],title or abstract,markers,16,1988,11,,,
+(a),Year,Publications per year [log],title or abstract,markers,17,1989,12,,,
+(a),Year,Publications per year [log],title or abstract,markers,18,1990,5,,,
+(a),Year,Publications per year [log],title or abstract,markers,19,1991,16,,,
+(a),Year,Publications per year [log],title or abstract,markers,20,1992,11,,,
+(a),Year,Publications per year [log],title or abstract,markers,21,1993,10,,,
+(a),Year,Publications per year [log],title or abstract,markers,22,1994,27,,,
+(a),Year,Publications per year [log],title or abstract,markers,23,1995,37,,,
+(a),Year,Publications per year [log],title or abstract,markers,24,1996,29,,,
+(a),Year,Publications per year [log],title or abstract,markers,25,1997,38,,,
+(a),Year,Publications per year [log],title or abstract,markers,26,1998,35,,,
+(a),Year,Publications per year [log],title or abstract,markers,27,1999,30,,,
+(a),Year,Publications per year [log],title or abstract,markers,28,2000,37,,,
+(a),Year,Publications per year [log],title or abstract,markers,29,2001,33,,,
+(a),Year,Publications per year [log],title or abstract,markers,30,2002,38,,,
+(a),Year,Publications per year [log],title or abstract,markers,31,2003,59,,,
+(a),Year,Publications per year [log],title or abstract,markers,32,2004,64,,,
+(a),Year,Publications per year [log],title or abstract,markers,33,2005,65,,,
+(a),Year,Publications per year [log],title or abstract,markers,34,2006,72,,,
+(a),Year,Publications per year [log],title or abstract,markers,35,2007,94,,,
+(a),Year,Publications per year [log],title or abstract,markers,36,2008,99,,,
+(a),Year,Publications per year [log],title or abstract,markers,37,2009,107,,,
+(a),Year,Publications per year [log],title or abstract,markers,38,2010,122,,,
+(a),Year,Publications per year [log],title or abstract,markers,39,2011,134,,,
+(a),Year,Publications per year [log],title or abstract,markers,40,2012,163,,,
+(a),Year,Publications per year [log],title or abstract,markers,41,2013,149,,,
+(a),Year,Publications per year [log],title or abstract,markers,42,2014,172,,,
+(a),Year,Publications per year [log],title or abstract,markers,43,2015,211,,,
+(a),Year,Publications per year [log],title or abstract,markers,44,2016,212,,,
+(a),Year,Publications per year [log],title or abstract,markers,45,2017,232,,,
+(a),Year,Publications per year [log],title or abstract,markers,46,2018,247,,,
+(a),Year,Publications per year [log],title or abstract,markers,47,2019,235,,,
+(a),Year,Publications per year [log],title or abstract,markers,48,2020,235,,,
+(a),Year,Publications per year [log],title or abstract,markers,49,2021,255,,,
+(a),Year,Publications per year [log],title or abstract,markers,50,2022,258,,,
+(a),Year,Publications per year [log],title or abstract,markers,51,2023,274,,,
+(a),Year,Publications per year [log],title or abstract,markers,52,2024,283,,,
+(a),Year,Publications per year [log],title or abstract,markers,53,2025,329,,,
+(b),"Publications, 1930–2026",,works with Herschel-Bulkley in title or abstract,bar,0,0,-0.325,38,0.325,3D printing
+(b),"Publications, 1930–2026",,works with Herschel-Bulkley in title or abstract,bar,1,0,0.675,84,1.325,Lubricants and greases
+(b),"Publications, 1930–2026",,works with Herschel-Bulkley in title or abstract,bar,2,0,1.675,167,2.325,Blood and biomedicine
+(b),"Publications, 1930–2026",,works with Herschel-Bulkley in title or abstract,bar,3,0,2.675,216,3.325,MR and ER fluids
+(b),"Publications, 1930–2026",,works with Herschel-Bulkley in title or abstract,bar,4,0,3.675,224,4.325,"Mudflows, tailings, slurries"
+(b),"Publications, 1930–2026",,works with Herschel-Bulkley in title or abstract,bar,5,0,4.675,246,5.325,"Construction materials, grouts"
+(b),"Publications, 1930–2026",,works with Herschel-Bulkley in title or abstract,bar,6,0,5.675,412,6.325,Foods and biopolymers
+(b),"Publications, 1930–2026",,works with Herschel-Bulkley in title or abstract,bar,7,0,6.675,645,7.325,"Drilling, oil and gas"
+(b),"Publications, 1930–2026",,works with Herschel-Bulkley in title or abstract,bar,8,0,7.675,1694,8.325,Fluid mechanics and computation
+(c),Share of works by research field (%),,Herschel–Bulkley: Engineering (% of works),bar,0,0,-0.31,42.03195412,0.31,Herschel–Bulkley
+(c),Share of works by research field (%),,Herschel–Bulkley: Chemical engineering (% of works),bar,0,42.03195412,-0.31,71.75337976,0.31,Herschel–Bulkley
+(c),Share of works by research field (%),,Herschel–Bulkley: Agricultural and biological sciences (% of works),bar,0,71.75337976,-0.31,81.13478083,0.31,Herschel–Bulkley
+(c),Share of works by research field (%),,Herschel–Bulkley: Medicine and health (% of works),bar,0,81.13478083,-0.31,88.0991397,0.31,Herschel–Bulkley
+(c),Share of works by research field (%),,Herschel–Bulkley: Environmental and Earth sciences (% of works),bar,0,88.0991397,-0.31,92.93322409,0.31,Herschel–Bulkley
+(c),Share of works by research field (%),,Herschel–Bulkley: Other fields (% of works),bar,0,92.93322409,-0.31,100,0.31,Herschel–Bulkley
+(c),Share of works by research field (%),,Bingham: Engineering (% of works),bar,0,0,0.69,61.81079512,1.31,Bingham
+(c),Share of works by research field (%),,Bingham: Chemical engineering (% of works),bar,0,61.81079512,0.69,85.08415554,1.31,Bingham
+(c),Share of works by research field (%),,Bingham: Agricultural and biological sciences (% of works),bar,0,85.08415554,0.69,86.34165216,1.31,Bingham
+(c),Share of works by research field (%),,Bingham: Medicine and health (% of works),bar,0,86.34165216,0.69,87.9280325,1.31,Bingham
+(c),Share of works by research field (%),,Bingham: Environmental and Earth sciences (% of works),bar,0,87.9280325,0.69,93.19017218,1.31,Bingham
+(c),Share of works by research field (%),,Bingham: Other fields (% of works),bar,0,93.19017218,0.69,100,1.31,Bingham
+(c),Share of works by research field (%),,Casson: Engineering (% of works),bar,0,0,1.69,77.15817694,2.31,Casson
+(c),Share of works by research field (%),,Casson: Chemical engineering (% of works),bar,0,77.15817694,1.69,84.15549598,2.31,Casson
+(c),Share of works by research field (%),,Casson: Agricultural and biological sciences (% of works),bar,0,84.15549598,1.69,86.86327078,2.31,Casson
+(c),Share of works by research field (%),,Casson: Medicine and health (% of works),bar,0,86.86327078,1.69,93.67292225,2.31,Casson
+(c),Share of works by research field (%),,Casson: Environmental and Earth sciences (% of works),bar,0,93.67292225,1.69,93.88739946,2.31,Casson
+(c),Share of works by research field (%),,Casson: Other fields (% of works),bar,0,93.88739946,1.69,100,2.31,Casson

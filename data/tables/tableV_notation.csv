@@ -1,0 +1,13 @@
+# Table V of the article: Principal notation.
+symbol,meaning,si_unit,remarks
+σ_y,yield stress,Pa,"also τ_0, τ_y; drilling “YP” is a Bingham value"
+K,consistency,Pa s^n,"also k, m; μ_p if n=1"
+n,flow index,–,exponent of the rate-dependent stress
+γ̇,shear rate,s^-1,γ̇=√(2 D:D)
+D,rate-of-deformation tensor,s^-1,D=½(∇ u+∇ u^T)
+"τ, σ",extra and total stress tensors,Pa,σ=-p I+τ
+σ,shear stress; stress magnitude,Pa,σ=√(½ τ:τ)
+"σ_E, N_1, N_2",tensile stress; normal-stress differences,Pa,
+η,apparent viscosity,Pa s,η=σ/γ̇
+γ̇_c,critical shear rate,s^-1,Sec. V B
+Γ,surface tension,N m^-1,

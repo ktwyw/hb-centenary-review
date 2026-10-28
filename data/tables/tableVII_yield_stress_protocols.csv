@@ -1,0 +1,9 @@
+# Table VII of the article: Yield-stress protocols and what they measure.
+protocol,observation,threshold_convention,main_ambiguity,bibkeys
+Descending flow curve,Steady stress at decreasing imposed rates,Extrapolated dynamic intercept σ_y,Model dependence; nonstationarity and slip at low rates,
+Stress ramp,Rate or strain during increasing stress,Breakaway at a stated ramp rate,Ramp-rate and history dependence,
+Creep series,Strain versus time at a sequence of imposed stresses,"Sustained flow above a resolution, over a stated duration","Delayed yielding: fluidization times grow steeply as stress decreases (Divoux et al., 2010)",Divoux2010
+Viscosity bifurcation,Creep after a standardized preshear and rest,"Stress separating arrest from flow (Coussot et al., 2002b)",Rest-time dependence in thixotropic materials,Coussot2002
+Stress growth (start-up),"Stress at constant low rate, often with a vane","Peak (overshoot) stress (Nguyen and Boger, 1983)",Rate and elastic-loading dependence; cup slip,NguyenBoger1983
+Oscillatory amplitude sweep,"Moduli, waveforms, harmonics","Departure from linearity, or G'=G''","Two different events; frequency dependence; recovery-rheology and sequence-of-physical-processes (SPP) analyses separate recoverable from unrecoverable strain (Rogers et al., 2011; Kamani, Donley, and Rogers, 2021)",Rogers2011; Kamani2021
+Inclined plane,Thickness of a layer that stops flowing,"ρ g h sin θ=σ_y at arrest (Coussot and Boyer, 1995)",Stopping (dynamic) threshold; start and stop thresholds differ for thixotropic materials,CoussotBoyer1995

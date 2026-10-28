@@ -1,0 +1,1000 @@
+{
+ "source": "OpenAlex API (https://api.openalex.org), queried 2026-10-25",
+ "queries": {
+  "title_abstract": "works?filter=title_and_abstract.search:\"Herschel-Bulkley\"&group_by=publication_year",
+  "fulltext": "works?filter=fulltext.search:\"Herschel-Bulkley\"&group_by=publication_year",
+  "topics": "works?filter=title_and_abstract.search:\"Herschel-Bulkley\"&group_by=primary_topic.id",
+  "hb1926_citations": "works/doi:10.1007/BF01432034"
+ },
+ "notes": "Entries dated 1830 and 1832 are misdated records and are excluded. 2026 is a partial year. Topic labels are OpenAlex's automatic classification. Full-text coverage is incomplete and uneven before about 2000.",
+ "title_abstract_total": 4883,
+ "fulltext_total": 12300,
+ "title_abstract_by_year": [
+  [
+   1930,
+   1
+  ],
+  [
+   1932,
+   1
+  ],
+  [
+   1954,
+   1
+  ],
+  [
+   1964,
+   1
+  ],
+  [
+   1970,
+   1
+  ],
+  [
+   1972,
+   1
+  ],
+  [
+   1975,
+   1
+  ],
+  [
+   1976,
+   1
+  ],
+  [
+   1977,
+   2
+  ],
+  [
+   1978,
+   1
+  ],
+  [
+   1980,
+   2
+  ],
+  [
+   1981,
+   7
+  ],
+  [
+   1982,
+   1
+  ],
+  [
+   1983,
+   5
+  ],
+  [
+   1984,
+   5
+  ],
+  [
+   1985,
+   2
+  ],
+  [
+   1986,
+   5
+  ],
+  [
+   1987,
+   9
+  ],
+  [
+   1988,
+   11
+  ],
+  [
+   1989,
+   12
+  ],
+  [
+   1990,
+   5
+  ],
+  [
+   1991,
+   16
+  ],
+  [
+   1992,
+   11
+  ],
+  [
+   1993,
+   10
+  ],
+  [
+   1994,
+   27
+  ],
+  [
+   1995,
+   37
+  ],
+  [
+   1996,
+   29
+  ],
+  [
+   1997,
+   38
+  ],
+  [
+   1998,
+   35
+  ],
+  [
+   1999,
+   30
+  ],
+  [
+   2000,
+   37
+  ],
+  [
+   2001,
+   33
+  ],
+  [
+   2002,
+   38
+  ],
+  [
+   2003,
+   59
+  ],
+  [
+   2004,
+   64
+  ],
+  [
+   2005,
+   65
+  ],
+  [
+   2006,
+   72
+  ],
+  [
+   2007,
+   94
+  ],
+  [
+   2008,
+   99
+  ],
+  [
+   2009,
+   107
+  ],
+  [
+   2010,
+   122
+  ],
+  [
+   2011,
+   134
+  ],
+  [
+   2012,
+   163
+  ],
+  [
+   2013,
+   149
+  ],
+  [
+   2014,
+   172
+  ],
+  [
+   2015,
+   211
+  ],
+  [
+   2016,
+   212
+  ],
+  [
+   2017,
+   232
+  ],
+  [
+   2018,
+   247
+  ],
+  [
+   2019,
+   235
+  ],
+  [
+   2020,
+   235
+  ],
+  [
+   2021,
+   255
+  ],
+  [
+   2022,
+   258
+  ],
+  [
+   2023,
+   274
+  ],
+  [
+   2024,
+   283
+  ],
+  [
+   2025,
+   329
+  ],
+  [
+   2026,
+   392
+  ]
+ ],
+ "fulltext_by_year": [
+  [
+   1930,
+   1
+  ],
+  [
+   1932,
+   1
+  ],
+  [
+   1951,
+   1
+  ],
+  [
+   1952,
+   4
+  ],
+  [
+   1953,
+   1
+  ],
+  [
+   1954,
+   2
+  ],
+  [
+   1956,
+   1
+  ],
+  [
+   1957,
+   1
+  ],
+  [
+   1960,
+   2
+  ],
+  [
+   1962,
+   2
+  ],
+  [
+   1963,
+   1
+  ],
+  [
+   1964,
+   2
+  ],
+  [
+   1969,
+   2
+  ],
+  [
+   1970,
+   4
+  ],
+  [
+   1971,
+   1
+  ],
+  [
+   1972,
+   1
+  ],
+  [
+   1975,
+   1
+  ],
+  [
+   1976,
+   3
+  ],
+  [
+   1977,
+   3
+  ],
+  [
+   1978,
+   2
+  ],
+  [
+   1979,
+   1
+  ],
+  [
+   1980,
+   3
+  ],
+  [
+   1981,
+   8
+  ],
+  [
+   1982,
+   2
+  ],
+  [
+   1983,
+   7
+  ],
+  [
+   1984,
+   8
+  ],
+  [
+   1985,
+   5
+  ],
+  [
+   1986,
+   10
+  ],
+  [
+   1987,
+   10
+  ],
+  [
+   1988,
+   11
+  ],
+  [
+   1989,
+   12
+  ],
+  [
+   1990,
+   10
+  ],
+  [
+   1991,
+   19
+  ],
+  [
+   1992,
+   14
+  ],
+  [
+   1993,
+   14
+  ],
+  [
+   1994,
+   32
+  ],
+  [
+   1995,
+   42
+  ],
+  [
+   1996,
+   34
+  ],
+  [
+   1997,
+   43
+  ],
+  [
+   1998,
+   44
+  ],
+  [
+   1999,
+   44
+  ],
+  [
+   2000,
+   44
+  ],
+  [
+   2001,
+   42
+  ],
+  [
+   2002,
+   54
+  ],
+  [
+   2003,
+   84
+  ],
+  [
+   2004,
+   103
+  ],
+  [
+   2005,
+   108
+  ],
+  [
+   2006,
+   120
+  ],
+  [
+   2007,
+   137
+  ],
+  [
+   2008,
+   187
+  ],
+  [
+   2009,
+   201
+  ],
+  [
+   2010,
+   239
+  ],
+  [
+   2011,
+   266
+  ],
+  [
+   2012,
+   305
+  ],
+  [
+   2013,
+   358
+  ],
+  [
+   2014,
+   409
+  ],
+  [
+   2015,
+   462
+  ],
+  [
+   2016,
+   493
+  ],
+  [
+   2017,
+   535
+  ],
+  [
+   2018,
+   597
+  ],
+  [
+   2019,
+   700
+  ],
+  [
+   2020,
+   719
+  ],
+  [
+   2021,
+   842
+  ],
+  [
+   2022,
+   863
+  ],
+  [
+   2023,
+   982
+  ],
+  [
+   2024,
+   966
+  ],
+  [
+   2025,
+   1034
+  ],
+  [
+   2026,
+   1025
+  ]
+ ],
+ "top_topics_title_abstract": [
+  [
+   "Rheology and Fluid Dynamics Studies",
+   1446
+  ],
+  [
+   "Drilling and Well Engineering",
+   543
+  ],
+  [
+   "Vibration Control and Rheological Fluids",
+   216
+  ],
+  [
+   "Polysaccharides Composition and Applications",
+   199
+  ],
+  [
+   "Blood properties and coagulation",
+   167
+  ],
+  [
+   "Landslides and related hazards",
+   131
+  ],
+  [
+   "Concrete and Cement Materials Research",
+   121
+  ],
+  [
+   "Food composition and properties",
+   110
+  ],
+  [
+   "Proteins in Food Systems",
+   103
+  ],
+  [
+   "Grouting, Rheology, and Soil Mechanics",
+   68
+  ],
+  [
+   "Fluid Dynamics and Mixing",
+   63
+  ],
+  [
+   "Fluid Dynamics Simulations and Interactions",
+   59
+  ],
+  [
+   "Fluid Dynamics and Heat Transfer",
+   57
+  ],
+  [
+   "Innovations in Concrete and Construction Materials",
+   57
+  ],
+  [
+   "Tailings Management and Properties",
+   49
+  ],
+  [
+   "Tribology and Lubrication Engineering",
+   44
+  ],
+  [
+   "Coal Combustion and Slurry Processing",
+   44
+  ],
+  [
+   "Lubricants and Their Additives",
+   40
+  ],
+  [
+   "Material Dynamics and Properties",
+   38
+  ],
+  [
+   "Additive Manufacturing and 3D Printing Technologies",
+   38
+  ],
+  [
+   "Petroleum Processing and Analysis",
+   37
+  ],
+  [
+   "Hydraulic flow and structures",
+   36
+  ],
+  [
+   "Enhanced Oil Recovery Techniques",
+   33
+  ],
+  [
+   "Heat Transfer and Optimization",
+   33
+  ],
+  [
+   "Hydraulic Fracturing and Reservoir Analysis",
+   32
+  ]
+ ],
+ "hb1926_citations_total": 1513,
+ "hb1926_citations_by_year": [
+  [
+   2012,
+   37
+  ],
+  [
+   2013,
+   31
+  ],
+  [
+   2014,
+   38
+  ],
+  [
+   2015,
+   45
+  ],
+  [
+   2016,
+   57
+  ],
+  [
+   2017,
+   59
+  ],
+  [
+   2018,
+   88
+  ],
+  [
+   2019,
+   91
+  ],
+  [
+   2020,
+   101
+  ],
+  [
+   2021,
+   133
+  ],
+  [
+   2022,
+   142
+  ],
+  [
+   2023,
+   120
+  ],
+  [
+   2024,
+   123
+  ],
+  [
+   2025,
+   113
+  ],
+  [
+   2026,
+   104
+  ]
+ ],
+ "top_sources_title_abstract": [
+  [
+   "Journal of Non-Newtonian Fluid Mechanics",
+   143
+  ],
+  [
+   "Journal of Food Engineering",
+   74
+  ],
+  [
+   "Physics of Fluids",
+   65
+  ],
+  [
+   "Construction and Building Materials",
+   56
+  ],
+  [
+   "Journal of Petroleum Science and Engineering",
+   55
+  ],
+  [
+   "Rheologica Acta",
+   50
+  ],
+  [
+   "Journal of Texture Studies",
+   45
+  ],
+  [
+   "Journal of Fluid Mechanics",
+   34
+  ],
+  [
+   "Food Hydrocolloids",
+   34
+  ],
+  [
+   "Journal of Rheology",
+   33
+  ]
+ ],
+ "model_comparison": {
+  "queried": "2026-10-25",
+  "source": "OpenAlex title_and_abstract.search with group_by=primary_topic.field.id and primary_topic.subfield.id",
+  "openalex_fields_total": 26,
+  "models": {
+   "HB": {
+    "query": "\"Herschel-Bulkley\" OR \"Herschel Bulkley\"",
+    "works": 4883,
+    "fields": 22,
+    "subfields": 84,
+    "by_field": [
+     [
+      "Engineering",
+      2052
+     ],
+     [
+      "Chemical Engineering",
+      1451
+     ],
+     [
+      "Agricultural and Biological Sciences",
+      458
+     ],
+     [
+      "Environmental Science",
+      199
+     ],
+     [
+      "Medicine",
+      186
+     ],
+     [
+      "Materials Science",
+      132
+     ],
+     [
+      "Nursing",
+      118
+     ],
+     [
+      "Chemistry",
+      80
+     ],
+     [
+      "Biochemistry, Genetics and Molecular Biology",
+      54
+     ],
+     [
+      "Earth and Planetary Sciences",
+      37
+     ],
+     [
+      "Mathematics",
+      33
+     ],
+     [
+      "Pharmacology, Toxicology and Pharmaceutics",
+      26
+     ],
+     [
+      "Physics and Astronomy",
+      25
+     ],
+     [
+      "Computer Science",
+      10
+     ],
+     [
+      "Health Professions",
+      7
+     ],
+     [
+      "Energy",
+      6
+     ],
+     [
+      "Business, Management and Accounting",
+      2
+     ],
+     [
+      "Decision Sciences",
+      2
+     ],
+     [
+      "Arts and Humanities",
+      1
+     ],
+     [
+      "Immunology and Microbiology",
+      1
+     ],
+     [
+      "Neuroscience",
+      1
+     ],
+     [
+      "Dentistry",
+      1
+     ]
+    ],
+    "classified": 4882,
+    "share_outside_engineering_pct": 28.2,
+    "fields_with_10_or_more": 14
+   },
+   "Bingham": {
+    "query": "\"Bingham plastic\" OR \"Bingham fluid\" OR \"Bingham model\"",
+    "works": 5179,
+    "fields": 18,
+    "subfields": 75,
+    "by_field": [
+     [
+      "Engineering",
+      3195
+     ],
+     [
+      "Chemical Engineering",
+      1203
+     ],
+     [
+      "Environmental Science",
+      186
+     ],
+     [
+      "Mathematics",
+      104
+     ],
+     [
+      "Earth and Planetary Sciences",
+      86
+     ],
+     [
+      "Medicine",
+      67
+     ],
+     [
+      "Agricultural and Biological Sciences",
+      65
+     ],
+     [
+      "Chemistry",
+      65
+     ],
+     [
+      "Materials Science",
+      65
+     ],
+     [
+      "Physics and Astronomy",
+      55
+     ],
+     [
+      "Computer Science",
+      40
+     ],
+     [
+      "Biochemistry, Genetics and Molecular Biology",
+      19
+     ],
+     [
+      "Nursing",
+      10
+     ],
+     [
+      "Energy",
+      3
+     ],
+     [
+      "Neuroscience",
+      3
+     ],
+     [
+      "Pharmacology, Toxicology and Pharmaceutics",
+      1
+     ],
+     [
+      "Social Sciences",
+      1
+     ],
+     [
+      "Health Professions",
+      1
+     ]
+    ],
+    "classified": 5169,
+    "share_outside_engineering_pct": 14.9,
+    "fields_with_10_or_more": 13
+   },
+   "Casson": {
+    "query": "\"Casson fluid\" OR \"Casson model\"",
+    "works": 3732,
+    "fields": 19,
+    "subfields": 54,
+    "by_field": [
+     [
+      "Engineering",
+      2878
+     ],
+     [
+      "Chemical Engineering",
+      261
+     ],
+     [
+      "Medicine",
+      234
+     ],
+     [
+      "Mathematics",
+      142
+     ],
+     [
+      "Agricultural and Biological Sciences",
+      101
+     ],
+     [
+      "Materials Science",
+      31
+     ],
+     [
+      "Chemistry",
+      25
+     ],
+     [
+      "Physics and Astronomy",
+      15
+     ],
+     [
+      "Nursing",
+      14
+     ],
+     [
+      "Environmental Science",
+      8
+     ],
+     [
+      "Biochemistry, Genetics and Molecular Biology",
+      5
+     ],
+     [
+      "Computer Science",
+      5
+     ],
+     [
+      "Pharmacology, Toxicology and Pharmaceutics",
+      3
+     ],
+     [
+      "Decision Sciences",
+      2
+     ],
+     [
+      "Energy",
+      2
+     ],
+     [
+      "Business, Management and Accounting",
+      1
+     ],
+     [
+      "Neuroscience",
+      1
+     ],
+     [
+      "Dentistry",
+      1
+     ],
+     [
+      "Health Professions",
+      1
+     ]
+    ],
+    "classified": 3730,
+    "share_outside_engineering_pct": 15.8,
+    "fields_with_10_or_more": 9
+   }
+  },
+  "notes": "Fields and subfields are OpenAlex automatic classifications of each work's primary topic; share outside engineering = works not in Engineering or Chemical Engineering, as a percentage of classified works."
+ }
+}

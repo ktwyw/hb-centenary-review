@@ -1,0 +1,28 @@
+{
+  "source": "Ovarlez, Krishan and Cohen-Addad (2010), EPL 91, 68005",
+  "doi": "10.1209/0295-5075/91/68005",
+  "inspected_version": "arXiv:1007.4133v2",
+  "source_url": "https://arxiv.org/pdf/1007.4133v2",
+  "pdf_page": 5,
+  "figure": "3b",
+  "sha256": "8bf8cdb7d69100aacb1490bc989c09eb5b91dd93dc813bed2d75cef0d0d6138a",
+  "count": 152,
+  "group_counts": {
+    "circle": 25,
+    "diamond": 23,
+    "square": 26,
+    "triangle_down": 17,
+    "triangle_left": 23,
+    "triangle_right": 16,
+    "triangle_up": 22
+  },
+  "axes": {
+    "x_at_0.01": 362.3312683105469,
+    "x_at_10": 475.0485534667969,
+    "y_at_0_Pa": 326.6993408203125,
+    "y_at_100_Pa": 224.02581787109375
+  },
+  "status": "Coordinates of published vector markers; not original raw MRI/torque data.",
+  "group_meaning": "Marker shape identifies an acquisition series; speeds are not assigned because Fig. 3 has no speed legend.",
+  "uncertainty": "No experimental covariance or error bars recoverable. Coordinate perturbation is only a digitisation sensitivity."
+}

@@ -1,0 +1,29 @@
+# Data shown in fig03_parameter_atlas.pdf (see data/figure_data/README.md).
+material,class,sigma_y_Pa,sigma_y_max_Pa,n,K_Pa_s_n,fit,source_key,source_location
+Rubber in benzene 0.69 wt%,1926 rubber solutions,0,,0.81,,HB fit to pooled capillary data (this review),HerschelBulkley1926,data/hb1926_reanalysis.json
+Rubber in benzene 1.0 wt%,1926 rubber solutions,0,,0.74,,HB fit to pooled capillary data (this review),HerschelBulkley1926,data/hb1926_reanalysis.json
+Rubber in benzene 1.2 wt%,1926 rubber solutions,0,,0.68,,HB fit to pooled capillary data (this review),HerschelBulkley1926,data/hb1926_reanalysis.json
+Used drilling fluid (fit 0-1000 1/s),Drilling and well fluids,0.2,,0.9806,0.0229,HB least squares after yield-stress determination,SaasenYtrehus2020,Table 1
+Used drilling fluid (fit 0-300 1/s),Drilling and well fluids,0.2,,0.8269,0.0548,HB least squares after yield-stress determination,SaasenYtrehus2020,Table 1
+Water-based drilling fluid,Drilling and well fluids,4.29,,0.52,0.70,HB fit with HB bob shear rates (Fann 35),SkadsemSaasen2019,Sec. 4.1
+Water-based spacer,Drilling and well fluids,5.79,,0.54,0.78,HB fit with HB bob shear rates (Fann 35),SkadsemSaasen2019,Sec. 4.2
+Cement slurry,Drilling and well fluids,1.0,,0.69,1.08,HB fit with HB bob shear rates (Fann 35),SkadsemSaasen2019,Sec. 4.3
+Colloidal gas aphrons XG 1000 ppm,Foams and aphrons,0.3291,,0.71,0.137,HB-Papanastasiou fit,Zhumabek2025,Table 1
+Colloidal gas aphrons XG 2000 ppm,Foams and aphrons,0.6081,,0.60,0.608,HB-Papanastasiou fit,Zhumabek2025,Table 1
+Colloidal gas aphrons XG 4000 ppm,Foams and aphrons,0.8728,,0.35,1.664,HB-Papanastasiou fit,Zhumabek2025,Table 1
+Colloidal gas aphrons XG 6000 ppm,Foams and aphrons,1.8414,,0.28,3.02,HB-Papanastasiou fit,Zhumabek2025,Table 1
+Colloidal gas aphrons XG 8000 ppm,Foams and aphrons,2.6650,,0.24,5.15,HB-Papanastasiou fit,Zhumabek2025,Table 1
+Colloidal gas aphrons XG 10000 ppm,Foams and aphrons,4.9248,,0.26,5.62,HB-Papanastasiou fit,Zhumabek2025,Table 1
+SLES-betaine foam (local MRI law),Foams and aphrons,30.3,,0.36,,reanalysis of local data (this review),OvarlezFoams2010,"Fig. 3b (arXiv:1007.4133v2), reanalyzed in data/foam_reanalysis_results.json"
+Concentrated emulsion (wide-gap MRI),Emulsions,77,,0.5,15.4,HB fit,Ovarlez2008PRE,Figs. 4b and 5b (0.3-um emulsion)
+Concentrated emulsion (phi 0.75),Emulsions,11.6,,0.5,11.2,HB fit,Goyon2008,"calibration in wide-gap Couette (arXiv:0803.1352, main text)"
+Clay-free emulsion,Emulsions,50.5,,0.55,,HB fit,Fall2010,Fig. 2 (pure emulsion flow curve)
+Dodecane-in-water emulsion 88 vol%,Emulsions,52,,0.333,10.75,HB fit in shear,Geffrault2021,materials section (shear-rheometry characterization)
+Water-in-oil emulsions,Emulsions,54,71,0.36,,HB fits with n fixed at 0.36,Chevalier2013,materials section (shear-rheometry characterization)
+Carbopol hair gel,Carbopol and polymer gels,61,,0.45,27,HB fit,Coussot2009JNNFM,Fig. 5 (single HB fit over 0.01-1 s^-1)
+Carbopol (pillar array),Carbopol and polymer gels,3,,0.55,1.2,HB fit,Waisbord2019,"Sec. II.A, Eq. (1)"
+Carbopol solutions,Carbopol and polymer gels,8,89,0.36,,HB fits with n fixed at 0.36,Chevalier2013,materials section (shear-rheometry characterization)
+Carbopol solution (rotational),Carbopol and polymer gels,1.198,,0.6389,0.2717,HB fit,MagnonCayeux2021,Secs. 2.3 and 3.2 (also data/pipe_supplement_results.json)
+Pluronic gel,Carbopol and polymer gels,133,,0.31,30,Saramito HB plasticity parameters,Varchanis2020Extension,material characterization (Saramito HB parameters)
+Kaolin suspension 27 vol%,Clay suspensions,309,,0.333,78,HB fit in shear,Geffrault2021,materials section (shear-rheometry characterization)
+Fresh concrete (range of reported exponents),fresh concrete (right strip),,,1.10-1.88,,range of n reported for HB fits; yield stresses not compiled,deLarrard1998,Sec. III B of the review

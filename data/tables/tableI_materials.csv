@@ -1,0 +1,14 @@
+# Table I of the article: Complex fluids described with the Herschel–Bulkley model in studies cited in this review.
+material,microstructure,fields_of_use,examples,bibkeys
+Concentrated emulsions,Jammed deformable droplets,"Foods, cosmetics, model systems",Ovarlez et al. (2008); Goyon et al. (2008); Seth et al. (2011),Ovarlez2008PRE; Goyon2008; Seth2011
+Aqueous foams and aphrons,Jammed bubbles,"Oil recovery, remediation, foods, cosmetics","Ovarlez, Krishan, and Cohen-Addad (2010); Dollet and Raufaste (2014); Omirbekov et al. (2022); Zhumabek et al. (2025)",OvarlezFoams2010; DolletRaufaste2014; Omirbekov2022; Zhumabek2025
+Microgel pastes (Carbopol),Jammed swollen polymer particles,"Model fluids, hair gels","Tabuteau, Coussot, and de Bruyn (2007); Coussot et al. (2009); Meeker, Bonnecaze, and Cloitre (2004)",Tabuteau2007; Coussot2009JNNFM; Meeker2004
+Clay suspensions and muds,Attractive particle networks,"Geophysical flows, natural hazards, geotechnics","Coussot (1997); Chambon, Ghemmour, and Naaim (2014); Whorton, Jones, and Wilson (2025); Wei et al. (2025)",Coussot1997; Chambon2014; Whorton2025; Wei2025Clay
+Concentrated particle suspensions,Rigid particles of varying aspect ratio,"Natural hazards, industrial processing","Mueller, Llewellin, and Mader (2010)",Mueller2010
+Drilling fluids and well cements,"Clay, polymer and emulsion blends",Petroleum and geothermal wells,Kelessidis et al. (2006); Skadsem and Saasen (2019); Saasen and Ytrehus (2020),Kelessidis2006; SkadsemSaasen2019; SaasenYtrehus2020
+Cement pastes and fresh concrete,Dense colloidal and frictional suspensions,"Construction, pumping, 3D printing","de Larrard, Ferraris, and Sedran (1998); Feys, Verhoeven, and De Schutter (2008); Zhaidarbek et al. (2023)",deLarrard1998; Feys2008; Zhaidarbek2023
+Liquid and semisolid foods,"Emulsions, gels and biopolymer dispersions",Food engineering,Rao (2014); Martínez-Padilla (2024); Hassan et al. (2003); de Jesus Silva et al. (2022),Rao2014; MartinezPadilla2024; Hassan2003Yogurt; Silva2022Chocolate
+Blood,Aggregating red-cell suspension,"Hemodynamics, medical devices",Sankar and Lee (2008); Sasmal (2026),SankarLee2008; Sasmal2026
+Magnetorheological and electrorheological fluids,Field-induced particle structures,Controllable devices in flow mode,Wang and Gordaninejad (1999),WangGordaninejad1999
+Printing inks and bioinks,Colloidal gels and hydrogels,"Additive manufacturing, energy devices","Tagliaferri, Panagiotopoulos, and Mattevi (2021)",Tagliaferri2021
+Semi-solid metal slurries,Solid particles in molten alloy,Casting,Li et al. (2026),Li2026SemiSolid

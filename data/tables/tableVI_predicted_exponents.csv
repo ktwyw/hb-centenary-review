@@ -1,0 +1,10 @@
+# Table VI of the article: Predicted Herschel–Bulkley exponents and the observations that test them.
+theory_or_mechanism,predicted_exponent,discriminating_test,bibkeys
+"Mean-field mechanical noise (Hébraud and Lequeux, 1998)",n=1/2 (β=2),Stress-fluctuation statistics; dependence of n on dimension,HebraudLequeux1998
+"Soft glassy rheology (Sollich et al., 1997)",σ-σ_y∝γ̇^(1-x) in the glass phase (x<1),Variation of n with the noise temperature x; aging,Sollich1997
+"Kinetic elastoplastic fluidity (Bocquet, Colin, and Ajdari, 2009)",bulk n≈1/2; nonlocal corrections,Gap-dependent flow curves (Sec. VIII),Bocquet2009
+"Elastoplastic avalanches (Lin et al., 2014; Lin and Wyart, 2018)","β=1+1/(d-d_f): β≈1.7 in 3D (n≈0.6), β≈2.1 in 2D",Avalanche fractal dimension d_f; finite-rate corrections,Lin2014; LinWyart2018
+"Soft-particle elastohydrodynamics (Seth et al., 2011)",n=1/2,Scaling with solvent viscosity and particle modulus,Seth2011
+"Viscous friction in foams (Tcholakova et al., 2008; Denkov et al., 2009a)","n≈0.46 for mobile and n≈0.27 for rigid bubble surfaces, as summarized by Ovarlez, Krishan, and Cohen-Addad (2010)",Change of surfactant and bubble-surface mobility,Tcholakova2008; Denkov2009SM; OvarlezFoams2010
+Attractive gels,"effective, state-dependent","Recovery, preparation and elastic response (Dinkgreve et al., 2018; Jiang et al., 2025)",Dinkgreve2018; Jiang2025
+Frictional suspensions,"μ(J) rheology, not HB (Boyer, Guazzelli, and Pouliquen, 2011)",Normal stress and confinement dependence,Boyer2011

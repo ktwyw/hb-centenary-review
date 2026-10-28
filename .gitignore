@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# outputs of the verification scripts
+results/
+# QA crop of the source figure written by digitize_foam.py: part of a publisher figure, never commit
+data/foam_extraction_overlay.png

@@ -1,0 +1,11 @@
+# Table VIII of the article: Verification problems for Herschel–Bulkley computations.
+problem,reference,quantities_to_compare,principal_test,bibkeys
+Pipe/channel flow,Eqs. (19) and (20),"Flow rate, profile, plug radius",Scaling and constitutive law,
+Couette rheometry,Eq. (21),"Torque–speed, yielded fraction",Curved geometry and inversion,
+Square duct,Saramito and Roquet (2001),"Flow rate, stagnant corner zones",Two-dimensional plug topology,SaramitoRoquet2001
+Lid-driven cavity,"Syrakos, Georgiou, and Alexandrou (2013)","Vortex center, yielded regions",Recirculating flow,Syrakos2013
+Cylinder between plates,Zisis and Mitsoulis (2002); Roquet and Saramito (2003),Drag and yield topology,Unstructured discretization,Zisis2002; RoquetSaramito2003
+Settling sphere,"Beris et al. (1985); Liu, Muller, and Denn (2002)","Drag, arrest, yield surface","Three-dimensional stress, critical yield number",Beris1985; LiuMullerDenn2002
+Expansion and contraction,"Alexandrou, McGilvreay, and Burgos (2001)","Pressure loss, stagnant zones",Corners and plug detection,Alexandrou2001
+Squeeze flow,O'Donovan and Tanner (1984),Force–gap curve,Lubrication pseudo-plug,ODonovanTanner1984
+Dam break/slump,Roussel and Coussot (2005),Front and final shape,Free surface and arrest,RousselCoussot2005
